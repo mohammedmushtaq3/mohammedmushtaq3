@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋! I'm Mohammed Mushtaq</h1>
-<h3 align="center" style="font-size:2rem;">A Full-Stack Developer.</h3>
- A dedicated Software Engineer with extensive experience in modern web technologies. Passionate about creating efficient and innovative solutions, I thrive in dynamic environments and continuously seek to expand my knowledge and skills.
 
-<hr/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mushtaqdotdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="http://x.com/mushtaqdotdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=twitter&logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<!-- <h3 align="center" style="font-size:2rem;">A Full-Stack Developer.</h3>
+
+ A dedicated Software Engineer with extensive experience in modern web technologies. Passionate about creating efficient and innovative solutions, I thrive in dynamic environments and continuously seek to expand my knowledge and skills. -->
 
 - 🔭 I’m currently working on MEP [Star Binding Works ](https://star-binding-works.mushtaq.dev)
 - 🌱 I’m currently learning [filamentphp](https://filamentphp.com/) and preparing for [AWS Associate Architect Certification Exam](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
@@ -14,17 +25,6 @@
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: I have a Low EQ. -->
-
-## Socials
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/de-oliveira-elias/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="http://twitter.com/mushtaq_600" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=twitter&logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-</div>
 
 ## Tech Stack
 
@@ -92,6 +92,15 @@
 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
+### CMS
+
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+### Backend as a Service (BaaS)
+
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![Directus](https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white)
+
 ### Devops
 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -110,15 +119,6 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
-### CMS
-
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-### Backend as a Service (BaaS)
-
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Directus](https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white)
-
 ### Software
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -128,25 +128,30 @@
 
 ### Static Site Generators
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxt JS](https://img.shields.io/badge/Nuxt.js-white?style=for-the-badge&logo=nuxt.js&logoColor=green)
 
 ### Other
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) -->
+<hr/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+If you like my content or find anything useful, give it a ⭐ or support me by buying me a coffee ☕😀
 
-## Github Stats
+<a href="https://www.buymeacoffee.com/mushtaqdotdev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-[![Mohammed Mushtaq's Github Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmushtaq3&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
-[![Mohammed Mushtaq's Github PR Stats](https://github-readme-stats.vercel.app/api?username=mohammedmushtaq3&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## Github Stats -->
 
-[![Mohammed Mushtaq's Github Contributions Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohammedmushtaq3&)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Mohammed Mushtaq's Github Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmushtaq3&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedmushtaq3" alt="mohammedmushtaq3" /></a> </p>
+<!-- [![Mohammed Mushtaq's Github PR Stats](https://github-readme-stats.vercel.app/api?username=mohammedmushtaq3&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Mohammed Mushtaq's Github Contributions Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohammedmushtaq3&)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedmushtaq3" alt="mohammedmushtaq3" /></a> </p> -->
 
 <!-- [![Mohammed Mushtaq's github stats](https://github-readme-stats.vercel.app/api?username=mohammedmushtaq3&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
