@@ -2,19 +2,20 @@
 <h3 align="center" style="font-size:2rem;">A Full-Stack Developer.</h3>
  A dedicated Software Engineer with extensive experience in modern web technologies. Passionate about creating efficient and innovative solutions, I thrive in dynamic environments and continuously seek to expand my knowledge and skills.
 
+<hr/>
+
 - 🔭 I’m currently working on MEP [Star Binding Works ](https://star-binding-works.mushtaq.dev)
 - 🌱 I’m currently learning [filamentphp](https://filamentphp.com/) and preparing for [AWS Associate Architect Certification Exam](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 - 👨‍💻 All of my projects are available at [https://mushtaq.dev](https://mushtaq.dev)
 - 💬 Ask me about React, VueJs, Javascript, Laravel, FilamentPHP, FullStack Development, Application Architecture, Cost Cutting, Potential Optimisations, Hosting and more.
 - 📫 How to reach me: [LinkedIn](http://linkedin.com/in/mohammed-mushtaq-691862119/)
+
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: I have a Low EQ. -->
 
-<hr/>
-
-<h3 style="margin-top:10px;margin-bottom:20px;text-align:center;">Social</h3>
+## Socials
 
 <div align="center">
   <a href="https://www.linkedin.com/in/de-oliveira-elias/" target="_blank">
@@ -25,7 +26,7 @@
   </a>
 </div>
 
-<h3 style="margin-top:10px;margin-bottom:20px;text-align:center;">Tech Stack</h3>
+## Tech Stack
 
 <!-- <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
 <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
@@ -135,13 +136,9 @@
 
 <!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) -->
 
-<hr/>
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<hr/>
-
-### Github Stats
+## Github Stats
 
 [![Mohammed Mushtaq's Github Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmushtaq3&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
